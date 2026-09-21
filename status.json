@@ -6,6 +6,7 @@
   "ships": true,
   "decided": "2026-09-21",
   "why": "Blessed by the operator on 2026-09-21, in the first cut of seven.",
+  "license": "CC0-1.0",
   "conforms": true,
   "families": 25,
   "checkable": 24,
