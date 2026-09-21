@@ -2,7 +2,7 @@
   "language": "es",
   "built": "2026-09-21",
   "candidates": 201655,
-  "shipped": 143024,
+  "shipped": 145334,
   "ships": true,
   "decided": "2026-09-21",
   "why": "Blessed by the operator on 2026-09-21, in the first cut of seven.",
@@ -28,162 +28,162 @@
     {
       "families": 3,
       "added": "gutenberg",
-      "kept": 127572,
-      "share": 0.632625,
-      "gained": 127572
+      "kept": 129871,
+      "share": 0.644026,
+      "gained": 129871
     },
     {
       "families": 4,
       "added": "leipzig",
-      "kept": 140664,
-      "share": 0.697548,
-      "gained": 13092
+      "kept": 143049,
+      "share": 0.709375,
+      "gained": 13178
     },
     {
       "families": 5,
       "added": "tatoeba",
-      "kept": 142372,
-      "share": 0.706018,
-      "gained": 1708
+      "kept": 144713,
+      "share": 0.717627,
+      "gained": 1664
     },
     {
       "families": 6,
-      "added": "abc.es",
-      "kept": 142453,
-      "share": 0.706419,
+      "added": "letraslibres.com",
+      "kept": 144794,
+      "share": 0.718028,
       "gained": 81
     },
     {
       "families": 7,
-      "added": "letraslibres.com",
-      "kept": 142530,
-      "share": 0.706801,
-      "gained": 77
+      "added": "abc.es",
+      "kept": 144869,
+      "share": 0.7184,
+      "gained": 75
     },
     {
       "families": 8,
       "added": "eldiario.es",
-      "kept": 142592,
-      "share": 0.707109,
-      "gained": 62
+      "kept": 144928,
+      "share": 0.718693,
+      "gained": 59
     },
     {
       "families": 9,
       "added": "20minutos.es",
-      "kept": 142650,
-      "share": 0.707396,
-      "gained": 58
+      "kept": 144981,
+      "share": 0.718956,
+      "gained": 53
     },
     {
       "families": 10,
       "added": "rtve.es",
-      "kept": 142703,
-      "share": 0.707659,
-      "gained": 53
+      "kept": 145031,
+      "share": 0.719204,
+      "gained": 50
     },
     {
       "families": 11,
       "added": "ebible",
-      "kept": 142744,
-      "share": 0.707862,
+      "kept": 145072,
+      "share": 0.719407,
       "gained": 41
     },
     {
       "families": 12,
       "added": "eluniversal.com.mx",
-      "kept": 142784,
-      "share": 0.708061,
-      "gained": 40
+      "kept": 145110,
+      "share": 0.719595,
+      "gained": 38
     },
     {
       "families": 13,
       "added": "larazon.es",
-      "kept": 142819,
-      "share": 0.708234,
-      "gained": 35
+      "kept": 145140,
+      "share": 0.719744,
+      "gained": 30
     },
     {
       "families": 14,
-      "added": "elespectador.com",
-      "kept": 142848,
-      "share": 0.708378,
-      "gained": 29
+      "added": "publico.es",
+      "kept": 145167,
+      "share": 0.719878,
+      "gained": 27
     },
     {
       "families": 15,
-      "added": "milenio.com",
-      "kept": 142875,
-      "share": 0.708512,
+      "added": "elespectador.com",
+      "kept": 145194,
+      "share": 0.720012,
       "gained": 27
     },
     {
       "families": 16,
-      "added": "publico.es",
-      "kept": 142901,
-      "share": 0.708641,
-      "gained": 26
+      "added": "clarin.com",
+      "kept": 145219,
+      "share": 0.720136,
+      "gained": 25
     },
     {
       "families": 17,
-      "added": "clarin.com",
-      "kept": 142927,
-      "share": 0.70877,
-      "gained": 26
+      "added": "milenio.com",
+      "kept": 145243,
+      "share": 0.720255,
+      "gained": 24
     },
     {
       "families": 18,
-      "added": "elcomercio.pe",
-      "kept": 142951,
-      "share": 0.708889,
-      "gained": 24
+      "added": "eltiempo.com",
+      "kept": 145265,
+      "share": 0.720364,
+      "gained": 22
     },
     {
       "families": 19,
       "added": "elnacional.com",
-      "kept": 142975,
-      "share": 0.709008,
-      "gained": 24
+      "kept": 145287,
+      "share": 0.720473,
+      "gained": 22
     },
     {
       "families": 20,
-      "added": "eltiempo.com",
-      "kept": 142997,
-      "share": 0.709117,
-      "gained": 22
+      "added": "elcomercio.pe",
+      "kept": 145308,
+      "share": 0.720577,
+      "gained": 21
     },
     {
       "families": 21,
       "added": "latercera.com",
-      "kept": 143008,
-      "share": 0.709172,
-      "gained": 11
+      "kept": 145318,
+      "share": 0.720627,
+      "gained": 10
     },
     {
       "families": 22,
       "added": "lanacion.com.ar",
-      "kept": 143017,
-      "share": 0.709216,
+      "kept": 145327,
+      "share": 0.720671,
       "gained": 9
     },
     {
       "families": 23,
       "added": "pagina12.com.ar",
-      "kept": 143022,
-      "share": 0.709241,
+      "kept": 145332,
+      "share": 0.720696,
       "gained": 5
     },
     {
       "families": 24,
       "added": "ciudadseva.com",
-      "kept": 143024,
-      "share": 0.709251,
+      "kept": 145334,
+      "share": 0.720706,
       "gained": 2
     },
     {
       "families": 25,
       "added": "lavanguardia.com",
-      "kept": 143024,
-      "share": 0.709251,
+      "kept": 145334,
+      "share": 0.720706,
       "gained": 0
     }
   ]

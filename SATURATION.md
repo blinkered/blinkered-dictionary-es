@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 201,655. Shipped: 143,024.
+Candidates: 201,655. Shipped: 145,334.
 
 Of 25 families, **24 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -19,28 +19,28 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
-| 3 | `gutenberg` | 127,572 | 63.3% | +127,572 |
-| 4 | `leipzig` | 140,664 | 69.8% | +13,092 |
-| 5 | `tatoeba` | 142,372 | 70.6% | +1,708 |
-| 6 | `abc.es` | 142,453 | 70.6% | +81 |
-| 7 | `letraslibres.com` | 142,530 | 70.7% | +77 |
-| 8 | `eldiario.es` | 142,592 | 70.7% | +62 |
-| 9 | `20minutos.es` | 142,650 | 70.7% | +58 |
-| 10 | `rtve.es` | 142,703 | 70.8% | +53 |
-| 11 | `ebible` | 142,744 | 70.8% | +41 |
-| 12 | `eluniversal.com.mx` | 142,784 | 70.8% | +40 |
-| 13 | `larazon.es` | 142,819 | 70.8% | +35 |
-| 14 | `elespectador.com` | 142,848 | 70.8% | +29 |
-| 15 | `milenio.com` | 142,875 | 70.9% | +27 |
-| 16 | `publico.es` | 142,901 | 70.9% | +26 |
-| 17 | `clarin.com` | 142,927 | 70.9% | +26 |
-| 18 | `elcomercio.pe` | 142,951 | 70.9% | +24 |
-| 19 | `elnacional.com` | 142,975 | 70.9% | +24 |
-| 20 | `eltiempo.com` | 142,997 | 70.9% | +22 |
-| 21 | `latercera.com` | 143,008 | 70.9% | +11 |
-| 22 | `lanacion.com.ar` | 143,017 | 70.9% | +9 |
-| 23 | `pagina12.com.ar` | 143,022 | 70.9% | +5 |
-| 24 | `ciudadseva.com` | 143,024 | 70.9% | +2 |
-| 25 | `lavanguardia.com` | 143,024 | 70.9% | — |
+| 3 | `gutenberg` | 129,871 | 64.4% | +129,871 |
+| 4 | `leipzig` | 143,049 | 70.9% | +13,178 |
+| 5 | `tatoeba` | 144,713 | 71.8% | +1,664 |
+| 6 | `letraslibres.com` | 144,794 | 71.8% | +81 |
+| 7 | `abc.es` | 144,869 | 71.8% | +75 |
+| 8 | `eldiario.es` | 144,928 | 71.9% | +59 |
+| 9 | `20minutos.es` | 144,981 | 71.9% | +53 |
+| 10 | `rtve.es` | 145,031 | 71.9% | +50 |
+| 11 | `ebible` | 145,072 | 71.9% | +41 |
+| 12 | `eluniversal.com.mx` | 145,110 | 72.0% | +38 |
+| 13 | `larazon.es` | 145,140 | 72.0% | +30 |
+| 14 | `publico.es` | 145,167 | 72.0% | +27 |
+| 15 | `elespectador.com` | 145,194 | 72.0% | +27 |
+| 16 | `clarin.com` | 145,219 | 72.0% | +25 |
+| 17 | `milenio.com` | 145,243 | 72.0% | +24 |
+| 18 | `eltiempo.com` | 145,265 | 72.0% | +22 |
+| 19 | `elnacional.com` | 145,287 | 72.0% | +22 |
+| 20 | `elcomercio.pe` | 145,308 | 72.1% | +21 |
+| 21 | `latercera.com` | 145,318 | 72.1% | +10 |
+| 22 | `lanacion.com.ar` | 145,327 | 72.1% | +9 |
+| 23 | `pagina12.com.ar` | 145,332 | 72.1% | +5 |
+| 24 | `ciudadseva.com` | 145,334 | 72.1% | +2 |
+| 25 | `lavanguardia.com` | 145,334 | 72.1% | — |
 
-**Diminishing returns from family 5** (`tatoeba`, +1,708), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 5** (`tatoeba`, +1,664), where a family first added less than a twentieth of what the best one did.

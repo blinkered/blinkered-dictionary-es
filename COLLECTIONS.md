@@ -13,7 +13,7 @@ collection rather than reuse its record only has to put the file back where the 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
 | `wiki:es` | 858,375,744 |  | — |
-| `ia` | 128,615,042 | Internet Archive spanish books — literature, and the register a newspaper never reaches | [archive-es](https://archive.org/details/booksbylanguage_spanish) |
+| `ia` | 181,928,970 | Internet Archive spanish books — literature, and the register a newspaper never reaches | [archive-es](https://archive.org/details/booksbylanguage_spanish) |
 | `gut` | 43,198,651 |  | — |
 | `wikisource:es` | 43,016,458 |  | — |
 | `lz:spa_news_2023_1M` | 7,983,138 |  | — |
