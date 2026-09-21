@@ -12,16 +12,16 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `wiki:es` | 858,375,744 | Spanish Wikipedia — modern encyclopedic prose | [eswiki.xml.bz2](https://dumps.wikimedia.org/eswiki/latest/eswiki-latest-pages-articles.xml.bz2) |
-| `gut` | 43,198,651 | Project Gutenberg — published books, a register nothing else here reaches | [gutenberg-es](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
-| `wikisource:es` | 43,016,458 | Wikisource — same Wikimedia family, so it corroborates rather than counts | [eswikisource.xml.bz2](https://dumps.wikimedia.org/eswikisource/latest/eswikisource-latest-pages-articles.xml.bz2) |
-| `ia` | 35,606,640 | Internet Archive spanish books — literature, and the register a newspaper never reaches | [archive-es](https://archive.org/details/booksbylanguage_spanish) |
-| `lz:spa_news_2023_1M` | 7,983,138 | Leipzig spa_news_2023_1M — modern news, cited by the page each sentence came from | spa_news_2023_1M |
-| `lz:spa_news_2024_1M` | 7,685,108 | Leipzig spa_news_2024_1M — modern news, cited by the page each sentence came from | spa_news_2024_1M |
-| `tat` | 2,269,149 | Tatoeba — contemporary, conversational | [spa_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/spa/spa_sentences.tsv.bz2) |
+| `wiki:es` | 858,375,744 |  | — |
+| `ia` | 128,615,042 | Internet Archive spanish books — literature, and the register a newspaper never reaches | [archive-es](https://archive.org/details/booksbylanguage_spanish) |
+| `gut` | 43,198,651 |  | — |
+| `wikisource:es` | 43,016,458 |  | — |
+| `lz:spa_news_2023_1M` | 7,983,138 |  | — |
+| `lz:spa_news_2024_1M` | 7,685,108 |  | — |
+| `tat` | 2,269,149 |  | — |
 | `web:eldiario.es` | 605,905 |  | fetched from `eldiario.es`, recorded in `searched.tsv` |
 | `web:abc.es` | 538,329 |  | fetched from `abc.es`, recorded in `searched.tsv` |
-| `ebible:spaRV1909` | 466,377 | A translation — a family nothing else here belongs to | [spaRV1909_vpl.txt](https://ebible.org/Scriptures/spaRV1909_vpl.zip) |
+| `ebible:spaRV1909` | 466,377 |  | — |
 | `web:elespectador.com` | 456,549 |  | fetched from `elespectador.com`, recorded in `searched.tsv` |
 | `web:eltiempo.com` | 338,306 |  | fetched from `eltiempo.com`, recorded in `searched.tsv` |
 | `web:clarin.com` | 285,962 |  | fetched from `clarin.com`, recorded in `searched.tsv` |
